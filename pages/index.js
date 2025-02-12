@@ -99,10 +99,6 @@ export default function Home() {
   </div>
 </section>
 
-
-
-
-      
       {/* Features Section */}
       <section id="features" className="py-8 bg-white dark:bg-gray-900">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">

